@@ -4,6 +4,7 @@
 ## 1) 인간형 실사 동물 캐릭터
 [수달](https://labs.google/fx/tools/whisk/share/611cqkc2i0000)<br/>
 [여우](https://labs.google/fx/tools/whisk/share/6t4orgcg10000)<br/>
+[배경](https://labs.google/fx/ko/tools/whisk/share/2ermnoclog000)<br/>
 
 ## 2) 신빙성 있는 자료
 [영화 her 포스터](https://t1.daumcdn.net/movie/767b17f16c8e4aa5a5a9deae11372f431558067772516)<br/>
