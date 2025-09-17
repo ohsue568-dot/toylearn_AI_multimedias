@@ -8,8 +8,7 @@
 [여우](https://labs.google/fx/tools/whisk/share/6t4orgcg10000)<br/>
 
 ## 2) 신빙성 있는 자료
-[영화 her](https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/50_popcasts/%EC%9D%B4%EB%82%A8%EC%9E%90%EB%A5%BC_%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4.jpg)
-<br/>[her 포스터](
+
 
 ## 3) 스토리 보드
 
