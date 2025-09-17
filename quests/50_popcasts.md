@@ -66,8 +66,10 @@
 
 
 ```
-##이미지
-- [여우](https://labs.google/fx/ko/tools/whisk/share/611cqkc2i0000)
+## 이미지
+
+- [여우](https://labs.google/fx/tools/whisk/share/6t4orgcg10000)
+
 - [수달](https://labs.google/fx/tools/whisk/share/611cqkc2i0000)
 ```
 
