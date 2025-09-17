@@ -8,6 +8,7 @@
 ## 2) 신빙성 있는 자료
 [영화 her 포스터](https://labs.google/fx/ko/tools/whisk/share/03nia07aa0000)<br/>
 [커플 사진](https://labs.google/fx/ko/tools/whisk/share/3em1sp6du0000)<br/>
+[스틸컷](https://www.bing.com/images/search?view=detailV2&ccid=xK%2Bx5Kp%2F&id=C80037247FDD387B85C7D7DE2F1E9940F2149D11&thid=OIP.xK-x5Kp_AM_em0yJ5M98eAHaEK&mediaurl=https%3A%2F%2Fcinelab.co.kr%2Fupload%2F1660987885827_%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.JPG&exph=720&expw=1280&q=her+%EC%8A%A4%ED%8B%B8%EC%BB%B7&FORM=IRPRST&ck=2176FAFE70A11353DCD871C3B5234994&selectedIndex=3&itb=0&cw=891&ch=891&ajaxhist=0&ajaxserp=0)<br/>
 
 
 ## 3) 스토리 보드
