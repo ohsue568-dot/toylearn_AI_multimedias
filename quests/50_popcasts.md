@@ -6,7 +6,7 @@
 [여우](https://labs.google/fx/tools/whisk/share/6t4orgcg10000)<br/>
 
 ## 2) 신빙성 있는 자료
-
+[영화 her 포스터](https://labs.google/fx/ko/tools/whisk/share/03nia07aa0000)<br/>
 
 ## 3) 스토리 보드
 
