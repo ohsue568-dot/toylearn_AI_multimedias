@@ -6,10 +6,10 @@
 [여우](https://labs.google/fx/tools/whisk/share/6t4orgcg10000)<br/>
 
 ## 2) 신빙성 있는 자료
-[영화 her 포스터](https://labs.google/fx/ko/tools/whisk/share/03nia07aa0000)<br/>
+[영화 her 포스터](https://t1.daumcdn.net/movie/767b17f16c8e4aa5a5a9deae11372f431558067772516)<br/>
 [커플 사진](https://labs.google/fx/ko/tools/whisk/share/3em1sp6du0000)<br/>
 [스틸컷](https://cinelab.co.kr/upload/1660987885827_%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.JPG)<br/>
-
+[텍스트 없는 스틸컷](https://cinelab.co.kr/upload/1660987885827_%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.JPG)<br/>
 
 ## 3) 스토리 보드
 
