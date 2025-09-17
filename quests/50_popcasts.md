@@ -7,6 +7,8 @@
 
 ## 2) 신빙성 있는 자료
 [영화 her 포스터](https://labs.google/fx/ko/tools/whisk/share/03nia07aa0000)<br/>
+[커플 사진](https://labs.google/fx/ko/tools/whisk/share/3em1sp6du0000)<br/>
+
 
 ## 3) 스토리 보드
 
