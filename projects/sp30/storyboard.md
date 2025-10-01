@@ -1,107 +1,101 @@
 ## SCENE 1: "파도는 언제나 우리 곁에 있는 친구예요."
 
-    - 영상: [Extreme Close Up] 낚싯줄이 팽팽하게 당겨지며 릴이 '파르륵' 소리를 내며 빠르게 돌아간다.
+- - 
 
-    - 연출 포인트: 따뜻한 음악, 햇살 가득한 화면
-```
+### 영상화면
+- 밝은 해변, 아이들이 모래성을 쌓거나 물장구 치며 즐겁게 놀고 있음
 
-## SCENE 2: 숨겨진 위험 (6-16초)
-- ### CUT 2-1 (6-9초)
+### 연출 포인트
+- 따뜻한 음악, 햇살 가득한 화면
 
-    - 영상: [Medium Shot] 카메라가 끓고 있는 버너에서 옆으로 천천히 이동(Pan)하면, 바로 옆에 예비 부탄가스가 놓여있는 위험한 모습이 보인다.
+---
 
-    - 음향: BGM 비트만 남고, '삐-'하는 불안한 노이즈 추가.
-```
-Makoto Shinkai anime style, anime screencap with a tense atmosphere. On the deck of a gently rocking leisure boat, with the deep blue ocean visible in the background. A medium shot shows a portable gas burner, **on which a pot of delicious Korean ramen is boiling, with bubbling red broth and noodles visible.** The camera pans slightly to reveal a spare butane gas canister placed dangerously close to the open flame. High-contrast sunlight casts a dramatic shadow over the canister, creating a sense of unease amidst the vibrant colors of the sea and sky.
-```
+## SCENE 2: 갑작스러운 파도의 변화
 
-- ### CUT 2-2 (9-12초)
+### 영상화면
+- 갑자기 파도가 움직이더니 화난 얼굴 모습으로 바뀜, 높아져서 standing한 상태  
+- 구명조끼 없는 아이들이 당황하며 뒷걸음치고 부모가 손잡고 도망감
 
-    - 영상: [Top-down Shot] 바닥에 어지럽게 뒤엉킨 고프로 충전 케이블과 낚싯줄 위로 바닷물이 살짝 튀어 들어온다.
+### 내레이션/카피
+- "하지만 준비되지 않은 순간, 친구가 우리를 시험할 수도 있죠."
 
-    - 음향: SFX(물 튀는 소리)가 날카롭게 들림.
-```
-image prompt
+### 연출 포인트
+- 파도는 웅장하게 표현, 카메라 흔들림으로 긴장감 전달
 
-Makoto Shinkai anime style, key visual. A top-down shot of a chaotic tangle of black charging cables and colorful fishing lines on a wet boat deck. A dynamic splash of seawater is captured in high detail, with individual glistening droplets frozen in mid-air by the brilliant sunlight. Ultra-detailed, vibrant colors.
-```
+---
 
-- ### CUT 2-3 (12-16초)
+## SCENE 3: 구명조끼 강조
 
-    - 영상: [Close Up] 보트 운전석(스로틀 레버) 바로 옆에 마시다 만 술캔이 위태롭게 놓여 있다.
+### 영상화면
+- 구명 조끼를 입은 아이들의 모습이 화면에 나타남
 
-    - 자막: 하지만, 우리가 놓치고 있는 것들
+### 내레이션/카피
+- "친구가 화나지 않으려면, 이걸 꼭 입어줘야 해요."
 
-## SCENE 3: 진짜 필수 장비 (16-26초)
-- ### CUT 3-1 (16-19초)
+### 연출 포인트
+- 화면이 밝아지면서 아이들이 빛나게 표현
 
-    - 영상: [Low Angle Shot] 한쪽에 단정하게 걸려있는 선명한 주황색 구명조끼. 마치 영웅처럼 듬직해 보인다. 
+---
 
-    - 내레이션: 최고의 즐거움을 위해
+## SCENE 4: 구명조끼 착용 장면
 
-- ### CUT 3-2 (19-22초)
+### 영상화면
+- 한 아이가 구명조끼를 들고 입는 모습
 
-    - 영상: [Slow Push-in] 보트 내부에 단단히 고정된 소화기의 모습으로 카메라가 천천히 다가간다.
+### 내레이션/카피
+- "구명조끼는 바다와 우리를 이어주는 약속이에요."
 
-    - 내레이션: 가장 먼저 챙겨야 할
+### 연출 포인트
+- 바다에서 놀고 있는 아이들의 환한 웃음 강조
 
-- ### CUT 3-3 (22-26초)
+---
 
-    - 영상: [Extreme Close Up] 방수팩에 담긴 스마트폰 화면. '해로드' 앱의 지도 화면이 선명하게 보인다. 
+## SCENE 5: 즐거운 물놀이
 
-    - 내레이션: 진짜 필수 장비들
+### 영상화면
+- 구명조끼를 입은 아이들이 파도와 즐겁게 뛰어놀며 웃음
 
-## SCENE 4: 보이지 않는 승무원의 활동 (26-46초)
-- ### CUT 4-1 (26-30초)
+### 내레이션/카피
+- "그 약속을 지킬 때, 파도는 여전히 즐거운 친구로 남습니다."
 
-    - 영상: [Close Up] 익명의 손이 나타나 버너 옆에 있던 부탄가스를 집어 멀리 떨어진 그늘진 수납공간에 넣는다.
+### 연출 포인트
+- 파도가 잔잔하고 빛나는 연출, 아이들의 환한 웃음 강조
 
-    - 음향: 다시 세련된 리듬의 BGM 시작.
+---
 
-- ### CUT 4-2 (30-34초)
+## SCENE 6: 드론샷
 
-    - 영상: [Top-down Shot] 다른 손이 뒤엉킨 케이블들을 깔끔하게 말아서 정리한다.
+### 영상화면
+- 드론샷처럼 위에서 바라본 아이들, 파도 위에서 안전하게 떠 있음
 
-    - 내레이션: 레저의 고수는 안전의 고수입니다.
+### 내레이션/카피
+- "바다는 아름답지만, 안전할 때만 우리를 지켜줍니다."
 
-- ### CUT 4-3 (34-38초)
+### 연출 포인트
+- 고요하고 감성적인 음악
 
-    - 영상: [Medium Shot] 또 다른 손이 술캔을 치우고, 그 자리에 뚜껑이 닫힌 생수병을 놓는다. 
+---
 
-    - 내레이션: 우리는 모두 서로의
+## SCENE 7: 경고 메시지
 
-- ### CUT 4-4 (38-46초)
+### 영상화면
+- 화면이 어두워졌다가
 
-    - 영상: [Close Up] 마지막으로, 익명의 손이 구명조끼의 지퍼를 목 끝까지 '착' 올리고 버클을 '딸깍' 소리 나게 채운다.
+### 내레이션/카피
+- "파도가 너를 삼키기 전에,"
 
-    - 음향: SFX(지퍼 올리는 소리, 버클 채우는 소리)가 선명하게 들림.
+### 연출 포인트
+- 블랙 배경 + 흰색 자막
 
-    - 내레이션: **'보이지 않는 승무원'**입니다.
+---
 
-## SCENE 5: 결과 (46-52초)
-- ### CUT 5-1 (46-49초)
+## SCENE 8: 클로징 메시지
 
-    - 영상: [Medium Shot] 모든 위험 요소가 사라진, 깔끔하고 정돈된 보트 위의 모습.
+### 영상화면
+- 중앙에 강렬한 글씨 등장
 
-    - 음향: BGM이 안정되고 만족스러운 톤으로 전환됨.
+### 내레이션/카피
+- "모두 함께 구명조끼를 입어봐요!"
 
-- ### CUT 5-2 (49-52초)
-
-    - 영상: 카메라가 부드럽게 뒤로 빠지면서(Pull-out) 평화로운 바다와 함께 안전한 보트의 전경을 보여준다.
-
-    - 자막: 안전이 확보될 때 즐거움은 완성됩니다.
-
-## SCENE 6: 결론 (52-59초)
-- ### CUT 6-1 (52-59초)
-
-    - 영상: [Drone Shot] 안전하게 정돈된 보트가 시원하게 물살을 가르며 푸른 바다를 향해 나아간다. 화면 중앙에 최종 슬로건과 로고가 나타난다.
-
-    - 음향: 웅장하고 시원하게 마무리.
-
-    - 자막:
-```
-즐거운 바다, 안전한 레저
-당신이 바로 '보이지 않는 승무원'입니다.
-
-[해양수산부 / 해양안전실천본부 로고]
-```
+### 연출 포인트
+- 바다 화면, 효과음 ‘파도 소리’로 마무리
